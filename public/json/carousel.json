@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "img": "/img/001.webp",
+        "description": "¿Te gusta la pintura?"
+    },
+    {
+        "id": 2,
+        "img": "/img/002.webp",
+        "description": "Disfrutar de música en directo"
+    },
+    {
+        "id": 3,
+        "img": "/img/003.webp",
+        "description": "Retos que además son sanos"
+    },
+    {
+        "id": 4,
+        "img": "/img/004.webp",
+        "description": "Nada como el aire puro"
+    },
+    {
+        "id": 5,
+        "img": "/img/005.webp",
+        "description": "Hacer deportes acuáticos"
+    },
+    {
+        "id": 6,
+        "img": "/img/006.webp",
+        "description": "Museos si, pero divertidos!"
+    },
+    {
+        "id": 8,
+        "img": "/img/008.webp",
+        "description": "Festivales al aire libre"
+    },
+    {
+        "id": 9,
+        "img": "/img/009.webp",
+        "description": "Animales en su hábitat"
+    },
+    {
+        "id": 10,
+        "img": "/img/010.webp",
+        "description": "Rutas con tu fiel amigo"
+    },
+    {
+        "id": 11,
+        "img": "/img/011.webp",
+        "description": "Disfruta del deporte en grupo"
+    },
+    {
+        "id": 12,
+        "img": "/img/012.webp",
+        "description": "Los conciertos mas tops de la ciudad"
+    },
+    {
+        "id": 13,
+        "img": "/img/013.webp",
+        "description": "Yoga con tus peluditos"
+    },
+    {
+        "id": 14,
+        "img": "/img/014.webp",
+        "description": "Conecta con la naturaleza"
+    },
+    {
+        "id": 16,
+        "img": "/img/016.webp",
+        "description": "Meditación gatuna"
+    },
+    {
+        "id": 17,
+        "img": "/img/017.webp",
+        "description": "Conoce gente nueva y baila"
+    },
+    {
+        "id": 23,
+        "img": "/img/023.webp",
+        "description": "Deportes en el mar"
+    },
+    {
+        "id": 25,
+        "img": "/img/025.webp",
+        "description": "Música k-pop"
+    },
+    {
+        "id": 30,
+        "img": "/img/030.webp",
+        "description": "Ferias gastronómicas"
+    }
+]

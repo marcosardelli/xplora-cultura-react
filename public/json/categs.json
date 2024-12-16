@@ -1,0 +1,27 @@
+[
+
+    {
+        "id":1,
+        "name":"Naturaleza"
+    },
+    {
+        "id":2,
+        "name":"Deporte"
+    }, 
+    {
+        "id":3,
+        "name":"Arte"
+    },
+    {
+        "id":4,
+        "name":"Música"
+    },
+    {
+        "id":5,
+        "name":"Cultura"
+    },
+    {
+        "id":6,
+        "name":"Folclore"
+    }
+]

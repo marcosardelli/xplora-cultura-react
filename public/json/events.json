@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "img": {
+      "article": "/img/image1.jpg",
+      "card": "/img/IMG1.jpg"
+    },
+    "categoria": "Arte",
+    "fechas": [
+      {
+        "inicio": "2024-12-18T08:00:00",
+        "fin": "2024-12-18T14:00:00"
+      },
+      {
+        "inicio": "2024-12-19T08:00:00",
+        "fin": "2024-12-19T14:00:00"
+      },
+      {
+        "inicio": "2024-12-20T08:00:00",
+        "fin": "2024-12-20T14:00:00"
+      },
+      {
+        "inicio": "2024-12-25T08:00:00",
+        "fin": "2024-12-25T14:00:00"
+      },
+      {
+        "inicio": "2024-12-26T08:00:00",
+        "fin": "2024-12-26T14:00:00"
+      },
+      {
+        "inicio": "2024-12-27T08:00:00",
+        "fin": "2024-12-27T14:00:00"
+      }
+    ],
+    "titulo": "Taller de cerámica",
+    "description": "Sumérgete en el fascinante mundo de la cerámica con nuestro taller práctico de creación de jarrones de barro. Durante este evento, aprenderás las técnicas esenciales de modelado, desde el amasado y centrado hasta el torneado y acabado. Bajo la guía de expertos artesanos, explorarás el proceso completo de transformar un bloque de arcilla en una pieza única y funcional. Además, descubrirás la importancia de los materiales y herramientas, así como los secretos de la cocción y esmaltado para dar vida a tus creaciones. Ya seas un principiante curioso o un amante de la cerámica, este taller es una oportunidad perfecta para liberar tu creatividad, disfrutar de un ambiente relajado y llevarte a casa tu propio jarrón hecho a mano. ¡No te pierdas esta experiencia artesanal llena de arte y tradición!",
+    "description_min": "Descubre el arte de la cerámica en nuestro taller de jarrones de barro. Aprende técnicas de modelado, torneado y acabado mientras creas tu propia pieza artesanal bajo la guía de expertos. ¡Una experiencia creativa y relajante para todos!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 2,
+    "img": {
+      "article": "/img/image2.jpg",
+      "card": "/img/IMG2.jpg"
+    },
+    "categoria": "Naturaleza",
+    "fechas": [
+      {
+        "inicio": "2024-12-02T14:00:00",
+        "fin": "2024-12-02T15:30:00"
+      },
+      {
+        "inicio": "2024-12-03T14:00:00",
+        "fin": "2024-12-03T15:30:00"
+      },
+      {
+        "inicio": "2024-12-09T14:00:00",
+        "fin": "2024-12-09T15:30:00"
+      },
+      {
+        "inicio": "2024-12-10T14:00:00",
+        "fin": "2024-12-10T15:30:00"
+      },
+      {
+        "inicio": "2024-12-16T14:00:00",
+        "fin": "2024-12-16T15:30:00"
+      },
+      {
+        "inicio": "2024-12-17T14:00:00",
+        "fin": "2024-12-17T15:30:00"
+      },
+      {
+        "inicio": "2024-12-23T14:00:00",
+        "fin": "2024-12-23T15:30:00"
+      },
+      {
+        "inicio": "2024-12-24T14:00:00",
+        "fin": "2024-12-24T15:30:00"
+      }
+    ],
+    "titulo": "Excursión al campo",
+    "description": "Embárcate en una encantadora excursión al campo donde la naturaleza te envolverá con su serenidad y belleza. Este recorrido te llevará a través de pintorescos paisajes llenos de vida, culminando en un espectacular encuentro con majestuosos caballos en su hábitat natural. Podrás observar su comportamiento libre y salvaje mientras galopan por verdes praderas. La aventura continúa hacia la desembocadura del río, un lugar donde la frescura del agua se mezcla con la inmensidad del paisaje. Aquí podrás disfrutar de un momento de tranquilidad mientras contemplas la unión de las aguas con el horizonte. Durante todo el trayecto, estarás acompañado por guías expertos que compartirán fascinantes datos sobre la flora y fauna local, haciendo de esta experiencia un viaje inolvidable para los amantes de la naturaleza.",
+    "description_min": "Vive una excursión única al campo, donde descubrirás majestuosos caballos en libertad y la impresionante desembocadura de un río. Una experiencia perfecta para conectar con la naturaleza y disfrutar de paisajes inolvidables.",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 3,
+    "img": {
+      "article": "/img/image3.jpg",
+      "card": "/img/IMG3.jpg"
+    },
+    "categoria": "Música",
+    "fechas": [
+      {
+        "inicio": "2024-12-07T21:00:00",
+        "fin": "2024-12-07T23:30:00"
+      },
+      {
+        "inicio": "2024-12-08T21:00:00",
+        "fin": "2024-12-08T23:30:00"
+      },
+      {
+        "inicio": "2024-12-21T21:00:00",
+        "fin": "2024-12-21T23:30:00"
+      },
+      {
+        "inicio": "2024-12-22T21:00:00",
+        "fin": "2024-12-22T23:30:00"
+      }
+    ],
+    "titulo": "Música en directo",
+    "description": "Disfruta de una noche mágica en la plaza del ayuntamiento con música en directo que llenará el aire de ritmo y emoción. Este evento único reúne a artistas locales y reconocidos para ofrecerte una experiencia musical inolvidable bajo las estrellas. Con un repertorio que abarca desde melodías clásicas hasta vibrantes sonidos contemporáneos, la velada promete algo especial para todos los gustos. La plaza, iluminada por luces festivas, se convertirá en el epicentro de la alegría, donde la música será la protagonista y el ambiente invitará a compartir momentos únicos con amigos y familia. Habrá zonas para bailar, puestos con deliciosas comidas y bebidas, y rincones ideales para relajarte y disfrutar del espectáculo. ¡No te pierdas esta celebración cultural que une la música y la comunidad en un entorno mágico!",
+    "description_min": "Vive la magia de la música en directo en la plaza del ayuntamiento. Una noche llena de ritmo, artistas increíbles y un ambiente festivo que te hará disfrutar como nunca. ¡No faltes!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 4,
+    "img": {
+      "article": "/img/image4.jpg",
+      "card": "/img/IMG4.jpg"
+    },
+    "categoria": "Deporte",
+    "fechas": [
+      {
+        "inicio": "2024-12-03T10:00:00",
+        "fin": "2024-12-03T12:30:00"
+      },
+      {
+        "inicio": "2024-12-10T10:00:00",
+        "fin": "2024-12-10T12:30:00"
+      },
+      {
+        "inicio": "2024-12-17T10:00:00",
+        "fin": "2024-12-17T12:30:00"
+      },
+      {
+        "inicio": "2024-12-24T10:00:00",
+        "fin": "2024-12-24T12:30:00"
+      },
+      {
+        "inicio": "2024-12-31T10:00:00",
+        "fin": "2024-12-31T12:30:00"
+      }
+    ],
+    "titulo": "Deportes de agua en grupo",
+    "description": "Únete a nuestras dinámicas sesiones de deporte en grupo en la piscina municipal y disfruta de una experiencia única que combina actividad física, diversión y bienestar. Este evento está diseñado para personas de todas las edades y niveles, y ofrece una variedad de ejercicios acuáticos que van desde entrenamiento cardiovascular hasta tonificación muscular, todo bajo la supervisión de entrenadores profesionales. Aprovecha los beneficios de ejercitarte en el agua, que reduce el impacto en las articulaciones y mejora tu resistencia mientras te sumerges en un ambiente motivador y lleno de energía. Además, es una excelente oportunidad para conocer a otros entusiastas del deporte y compartir momentos de alegría y camaradería. Ven y descubre una manera refrescante y saludable de cuidar tu cuerpo. ¡La piscina te espera!",
+    "description_min": "Disfruta del ejercicio en grupo en la piscina municipal. Entrenadores expertos te guiarán en sesiones dinámicas que combinan diversión, salud y energía. ¡Una actividad refrescante para sentirte genial!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 5,
+    "img": {
+      "article": "/img/image5.jpg",
+      "card": "/img/IMG5.jpg"
+    },
+    "categoria": "Cultura",
+    "fechas": [
+      {
+        "inicio": "2024-12-01T17:00:00",
+        "fin": "2024-12-01T20:30:00"
+      },
+      {
+        "inicio": "2024-12-08T17:00:00",
+        "fin": "2024-12-08T20:30:00"
+      },
+      {
+        "inicio": "2024-12-15T17:00:00",
+        "fin": "2024-12-15T20:30:00"
+      },
+      {
+        "inicio": "2024-12-22T17:00:00",
+        "fin": "2024-12-22T20:30:00"
+      },
+      {
+        "inicio": "2024-12-29T17:00:00",
+        "fin": "2024-12-29T20:30:00"
+      }
+    ],
+    "titulo": "Cripta de la Colonia Güell",
+    "description": "Adéntrate en la historia y la arquitectura con una visita a la impresionante Cripta de la Colonia Güell, una de las obras más fascinantes de Antoni Gaudí. Este monumento, declarado Patrimonio de la Humanidad por la UNESCO, te sorprenderá con su diseño innovador y simbología única. Construida con materiales naturales y formas orgánicas, la cripta refleja el genio creativo de Gaudí, anticipando muchas de las técnicas que luego perfeccionaría en la Sagrada Familia. Durante la visita, descubrirás los secretos de su arquitectura, las historias de la Colonia Güell y el contexto social y cultural que dio vida a este proyecto. Sumérgete en la esencia del modernismo catalán en un entorno lleno de historia y belleza. Ideal para los amantes de la cultura, la arquitectura y la creatividad.",
+    "description_min": "Explora la Cripta de la Colonia Güell, una joya del modernismo diseñada por Antoni Gaudí. Descubre su innovadora arquitectura y su fascinante historia en una experiencia cultural única.",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 6,
+    "img": {
+      "article": "/img/image6.jpg",
+      "card": "/img/IMG6.jpg"
+    },
+    "categoria": "Música",
+    "fechas": [
+      {
+        "inicio": "2024-12-06T20:00:00",
+        "fin": "2024-12-06T22:30:00"
+      },
+      {
+        "inicio": "2024-12-20T20:00:00",
+        "fin": "2024-12-20T22:30:00"
+      }
+    ],
+    "titulo": "Festival de Música",
+    "description": "Vive la emoción del Festival de Música más esperado del año, celebrado en el parque más grande y emblemático de la ciudad. Este evento reúne a artistas de renombre y talentos emergentes en un escenario al aire libre rodeado de naturaleza, creando una atmósfera mágica e inolvidable. Durante el festival, disfrutarás de una amplia variedad de géneros musicales, desde pop y rock hasta música electrónica y folk, con actuaciones que harán vibrar a todos los asistentes. Además de la música, el festival ofrece una experiencia completa con zonas de comida, bebidas artesanales y actividades interactivas para todas las edades. Ven con amigos o en familia y comparte momentos únicos en un entorno lleno de vida, donde la música y la naturaleza se unen para regalarte un día inolvidable. ¡No te lo pierdas!",
+    "description_min": "Disfruta del Festival de Música en el parque más grande de la ciudad. Artistas increíbles, comida, diversión y un ambiente único te esperan en esta cita imprescindible para los amantes de la música. ¡Te encantará!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 7,
+    "img": {
+      "article": "/img/image7.jpg",
+      "card": "/img/IMG7.jpg"
+    },
+    "categoria": "Deporte",
+    "fechas": [
+      {
+        "inicio": "2024-12-01T08:00:00",
+        "fin": "2024-12-01T12:30:00"
+      },
+      {
+        "inicio": "2024-12-29T08:00:00",
+        "fin": "2024-12-29T12:30:00"
+      }
+    ],
+    "titulo": "Cursa benéfica",
+    "description": "Participa en la emocionante Cursa Benéfica para los Niños del Pueblo y corre por una causa que marca la diferencia. Este evento solidario reúne a personas de todas las edades y niveles para recorrer un circuito lleno de energía y apoyo comunitario. Los fondos recaudados se destinarán a proyectos que mejoren la calidad de vida y el bienestar de los niños de la localidad, desde iniciativas educativas hasta actividades deportivas y culturales. La cursa cuenta con diferentes categorías, permitiendo que familias, amigos y corredores experimentados disfruten de una experiencia única. Al finalizar, habrá una entrega de premios simbólicos, música en directo y una zona de avituallamiento para compartir momentos de alegría y gratitud. Únete a esta jornada deportiva y solidaria y demuestra que juntos podemos crear un futuro mejor para los más pequeños. ¡Cada paso cuenta!",
+    "description_min": "Corre por una causa en la Cursa Benéfica para los Niños del Pueblo. Una jornada solidaria llena de deporte, comunidad y esperanza, destinada a apoyar iniciativas para los más pequeños. ¡Te esperamos!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 8,
+    "img": {
+      "article": "/img/image8.jpg",
+      "card": "/img/IMG8.jpg"
+    },
+    "categoria": "Deporte",
+    "fechas": [
+      {
+        "inicio": "2024-12-01T08:00:00",
+        "fin": "2024-12-01T12:30:00"
+      },
+      {
+        "inicio": "2024-12-29T08:00:00",
+        "fin": "2024-12-29T12:30:00"
+      }
+    ],
+    "titulo": "Tus primeros chapuzones",
+    "description": "Descubre la emoción de aprender a nadar, con un programa diseñado especialmente para personas de todas las edades en la piscina municipal. Estas clases están pensadas tanto para quienes se inician en el agua como para aquellos que desean perfeccionar sus habilidades acuáticas. Bajo la guía de instructores expertos y en un entorno seguro y acogedor, los participantes aprenderán las bases de la natación, desde flotar y controlar la respiración hasta realizar sus primeros estilos básicos. Además, se fomenta la confianza y el disfrute del agua, convirtiendo cada lección en una experiencia divertida y enriquecedora. Ya sea que vengas en familia, con amigos o solo, este programa es la oportunidad perfecta para descubrir la magia de nadar y desarrollar una habilidad esencial para la vida. ¡Anímate a dar tus primeros chapuzones con nosotros!",
+    "description_min": "Aprende a nadar en la piscina municipal. Clases para todas las edades, con instructores expertos, diversión y confianza en cada brazada. ¡No te lo pierdas!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 9,
+    "img": {
+      "article": "/img/image9.jpg",
+      "card": "/img/IMG9.jpg"
+    },
+    "categoria": "Cultura",
+    "fechas": [
+      {
+        "inicio": "2024-12-07T17:00:00",
+        "fin": "2024-12-07T20:30:00"
+      },
+      {
+        "inicio": "2024-12-14T17:00:00",
+        "fin": "2024-12-14T20:30:00"
+      },
+      {
+        "inicio": "2024-12-21T17:00:00",
+        "fin": "2024-12-21T20:30:00"
+      },
+      {
+        "inicio": "2024-12-28T17:00:00",
+        "fin": "2024-12-28T20:30:00"
+      }
+    ],
+    "titulo": "Parque jurásico",
+    "description": "Embárcate en un viaje al pasado en el Museo de la Ciudad con su fascinante exposición de dinosaurios, inspirada en la magia y emoción de Parque Jurásico. Adéntrate en un mundo prehistórico donde podrás maravillarte con réplicas a tamaño real de los dinosaurios más icónicos, como el majestuoso T-Rex, el veloz Velociraptor y el enorme Brachiosaurio. Acompañados de efectos visuales y sonoros, cada muestra te hará sentir que estás cara a cara con estas increíbles criaturas que dominaron la Tierra hace millones de años. Además, la exposición incluye actividades interactivas para todas las edades, como excavaciones paleontológicas simuladas, talleres educativos y zonas de realidad aumentada donde podrás experimentar cómo era vivir en la era de los dinosaurios. Una experiencia imperdible para familias, curiosos y amantes de la historia natural. ¡Ven y vive una aventura jurásica en pleno corazón de la ciudad!",
+    "description_min": "Visita el Museo de la Ciudad y sumérgete en una emocionante exposición de dinosaurios al estilo Parque Jurásico. Réplicas a tamaño real, actividades interactivas y un viaje único al pasado. ¡Te esperamos!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 10,
+    "img": {
+      "article": "/img/image10.jpg",
+      "card": "/img/IMG10.jpg"
+    },
+    "categoria": "Naturaleza",
+    "fechas": [
+      {
+        "inicio": "2024-12-04T14:00:00",
+        "fin": "2024-12-04T15:30:00"
+      },
+      {
+        "inicio": "2024-12-05T14:00:00",
+        "fin": "2024-12-05T15:30:00"
+      },
+      {
+        "inicio": "2024-12-11T14:00:00",
+        "fin": "2024-12-11T15:30:00"
+      },
+      {
+        "inicio": "2024-12-12T14:00:00",
+        "fin": "2024-12-12T15:30:00"
+      },
+      {
+        "inicio": "2024-12-18T14:00:00",
+        "fin": "2024-12-18T15:30:00"
+      },
+      {
+        "inicio": "2024-12-19T14:00:00",
+        "fin": "2024-12-19T15:30:00"
+      },
+      {
+        "inicio": "2024-12-25T14:00:00",
+        "fin": "2024-12-25T15:30:00"
+      },
+      {
+        "inicio": "2024-12-26T14:00:00",
+        "fin": "2024-12-26T15:30:00"
+      }
+    ],
+    "titulo": "¡Hasta pronto tortugas!",
+    "description": "Únete a nosotros en un evento especial y lleno de significado: El Retorno de las Tortugas al Mar. Esta actividad tiene como objetivo devolver a su hábitat natural a tortugas marinas rescatadas, tras haber sido rehabilitadas con cuidados expertos. Durante el evento, tendrás la oportunidad de aprender sobre la importancia de estas fascinantes criaturas para el ecosistema marino, así como las amenazas que enfrentan debido a la contaminación, la pesca y el cambio climático. Acompañados por biólogos marinos y voluntarios, los asistentes podrán participar activamente en el emocionante momento en el que las tortugas regresan al océano, simbolizando un nuevo comienzo para ellas. Este evento es ideal para familias, amantes de la naturaleza y aquellos que desean contribuir a la conservación del medio ambiente. Ven y forma parte de esta experiencia única, donde cada paso hacia el agua es un recordatorio del impacto positivo que podemos generar juntos.",
+    "description_min": "Vive la experiencia de devolver a su hábitat natural a tortugas marinas rehabilitadas y contribuye a la conservación del océano. ¡Un evento emocionante y educativo!",
+    "mapa": "https://maps.google.com/maps?q=Sant+Marti+42%2C+Gava&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 11,
+    "img": {
+      "article": "/img/image11.jpg",
+      "card": "/img/IMG11.jpg"
+    },
+    "categoria": "Deporte",
+    "fechas": [
+      {
+        "inicio": "2024-12-04T08:00:00",
+        "fin": "2024-12-04T12:30:00"
+      },
+      {
+        "inicio": "2024-12-11T08:00:00",
+        "fin": "2024-12-11T12:30:00"
+      },
+      {
+        "inicio": "2024-12-18T08:00:00",
+        "fin": "2024-12-18T12:30:00"
+      },
+      {
+        "inicio": "2024-12-25T08:00:00",
+        "fin": "2024-12-25T12:30:00"
+      }
+    ],
+    "titulo": "Cardio al aire libre",
+    "description": "¡Ponte en movimiento y mejora tu salud con nuestras sesiones de Cardio al Aire Libre en la plaza principal! Disfruta de una rutina de ejercicios energéticos en un entorno dinámico y motivador, ideal para todas las edades y niveles de condición física. Guiados por instructores profesionales, realizarás una combinación de actividades cardiovasculares como aeróbicos, saltos, carreras cortas y ejercicios de fuerza funcional que te ayudarán a quemar calorías, fortalecer tu cuerpo y aumentar tu energía. Con música vibrante y el aire fresco como tu mejor aliado, cada sesión es una experiencia llena de diversión, comunidad y bienestar. No necesitas experiencia previa ni equipamiento especial, solo trae tus ganas de disfrutar y moverte. Ven solo o acompañado, y conviértete en parte de una actividad que revitaliza tanto el cuerpo como la mente. ¡La plaza te espera para darlo todo!",
+    "description_min": "¡Muévete y diviértete con Cardio al Aire Libre en la plaza principal! Ejercicios dinámicos, música vibrante y un ambiente motivador para ponerte en forma. ¡No te lo pierdas!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 12,
+    "img": {
+      "article": "/img/image12.jpg",
+      "card": "/img/IMG12.jpg"
+    },
+    "categoria": "Folclore",
+    "fechas": [
+      {
+        "inicio": "2024-12-20T08:00:00",
+        "fin": "2024-12-20T17:30:00"
+      },
+      {
+        "inicio": "2024-12-21T08:00:00",
+        "fin": "2024-12-21T17:30:00"
+      },
+      {
+        "inicio": "2024-12-22T08:00:00",
+        "fin": "2024-12-22T17:30:00"
+      }
+    ],
+    "titulo": "Feria medieval",
+    "description": "Adéntrate en el pasado y vive una experiencia inolvidable en la Feria Medieval, donde la historia cobra vida en un ambiente lleno de magia y tradición. Pasea por las calles transformadas en un auténtico mercado medieval, con puestos de artesanos que ofrecen productos únicos, desde joyas hasta armas forjadas a mano. Disfruta de espectáculos fascinantes como justas de caballeros, teatro callejero y demostraciones de antiguos oficios que te transportarán a otra época. No te pierdas la deliciosa gastronomía medieval, con platos típicos preparados al estilo de antaño, y la música en vivo que acompaña cada rincón del evento con gaitas, tambores y laúdes. Ideal para familias, amantes de la historia y curiosos, esta feria es una oportunidad única para sumergirse en la cultura y los encantos de la Edad Media. ¡Ven disfrazado y forma parte de esta aventura inolvidable!",
+    "description_min": "Vive la magia de la Feria Medieval con justas de caballeros, música en vivo, artesanía y deliciosa gastronomía. Una experiencia única para viajar en el tiempo. ¡Te esperamos!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 13,
+    "img": {
+      "article": "/img/image13.jpg",
+      "card": "/img/IMG13.jpg"
+    },
+    "categoria": "Folclore",
+    "fechas": [
+      {
+        "inicio": "2024-12-01T08:00:00",
+        "fin": "2024-12-01T17:30:00"
+      },
+      {
+        "inicio": "2024-12-08T08:00:00",
+        "fin": "2024-12-08T17:30:00"
+      }
+    ],
+    "titulo": "Mil sabores del mundo",
+    "description": "Mil Sabores del Mundo es una feria gastronómica internacional que te invita a explorar la riqueza culinaria de más de 50 países en un solo lugar. Durante tres días, podrás disfrutar de puestos con platos típicos, talleres interactivos para aprender recetas auténticas, un mercado de productos internacionales y catas guiadas de vinos, quesos y chocolates. Además, el evento celebra la diversidad cultural con espectáculos de música y danza de todo el mundo, y ofrece actividades para toda la familia, como una Zona Kids con talleres para los más pequeños. Una experiencia única que combina sabores, cultura y diversión para todos los públicos.",
+    "description_min": "Mil Sabores del Mundo es una feria internacional con platos típicos, talleres, catas y espectáculos culturales. ¡Una experiencia para descubrir y disfrutar la diversidad del mundo en un solo lugar!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 14,
+    "img": {
+      "article": "/img/image14.jpg",
+      "card": "/img/IMG14.jpg"
+    },
+    "categoria": "Arte",
+    "fechas": [
+      {
+        "inicio": "2024-12-06T17:00:00",
+        "fin": "2024-12-06T20:30:00"
+      },
+      {
+        "inicio": "2024-12-13T17:00:00",
+        "fin": "2024-12-13T20:30:00"
+      },
+      {
+        "inicio": "2024-12-20T17:00:00",
+        "fin": "2024-12-20T20:30:00"
+      },
+      {
+        "inicio": "2024-12-27T17:00:00",
+        "fin": "2024-12-27T20:30:00"
+      }
+    ],
+    "titulo": "Conoce artistas locales",
+    "description": "Conoce Artistas Locales de Arte es un evento que celebra el talento creativo de tu comunidad, reuniendo a pintores, escultores, fotógrafos y diseñadores en un espacio para exhibir sus obras, compartir su proceso creativo y conectar con el público. Además, podrás participar en talleres interactivos, disfrutar de música en vivo y adquirir piezas únicas en un mercado de arte que apoya directamente a los artistas locales.",
+    "description_min": "Conoce Artistas Locales de Arte reúne talento creativo en exposiciones, talleres y un mercado donde podrás descubrir y apoyar a artistas de tu comunidad.",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 15,
+    "img": {
+      "article": "/img/image15.jpg",
+      "card": "/img/IMG15.jpg"
+    },
+    "categoria": "Naturaleza",
+    "fechas": [
+      {
+        "inicio": "2024-12-02T14:00:00",
+        "fin": "2024-12-02T15:30:00"
+      },
+      {
+        "inicio": "2024-12-09T14:00:00",
+        "fin": "2024-12-09T15:30:00"
+      },
+      {
+        "inicio": "2024-12-16T14:00:00",
+        "fin": "2024-12-16T15:30:00"
+      },
+      {
+        "inicio": "2024-12-23T14:00:00",
+        "fin": "2024-12-23T15:30:00"
+      },
+      {
+        "inicio": "2024-12-30T14:00:00",
+        "fin": "2024-12-30T15:30:00"
+      }
+    ],
+    "titulo": "El mejor amigo del hombre",
+    "description": "Huellas con Hogar es un evento dedicado a los amantes de los perros y a quienes buscan brindarles una segunda oportunidad. En este espacio podrás conocer a perros en adopción, interactuar con ellos y aprender sobre sus historias, además de recibir orientación de expertos en cuidado animal y adopción responsable. También habrá actividades como talleres de adiestramiento, demostraciones de habilidades caninas y un mercado solidario con productos para mascotas. Huellas con Hogar es el lugar ideal para encontrar un nuevo miembro para tu familia y ayudar a darles a estos peludos una vida llena de amor y cuidado.",
+    "description_min": "Huellas con Hogar es un evento para conocer perros en adopción, participar en actividades caninas y apoyar a brindarles un nuevo hogar lleno de amor.",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 16,
+    "img": {
+      "article": "/img/image16.jpg",
+      "card": "/img/IMG16.jpg"
+    },
+    "categoria": "Música",
+    "fechas": [
+      {
+        "inicio": "2024-12-05T15:00:00",
+        "fin": "2024-12-05T20:30:00"
+      },
+      {
+        "inicio": "2024-12-06T15:00:00",
+        "fin": "2024-12-06T20:30:00"
+      },
+      {
+        "inicio": "2024-12-12T15:00:00",
+        "fin": "2024-12-12T20:30:00"
+      },
+      {
+        "inicio": "2024-12-13T15:00:00",
+        "fin": "2024-12-13T20:30:00"
+      }
+    ],
+    "titulo": "Música al aire libre",
+    "description": "Melodías al Aire Libre es un evento único que combina la magia de la música en vivo con la belleza del parque natural de la ciudad. Durante todo el día, artistas locales y bandas emergentes ofrecerán conciertos al aire libre, rodeados de un entorno natural incomparable. Disfruta de una variedad de géneros musicales mientras te relajas en un ambiente fresco y abierto, ideal para compartir con amigos y familia. El evento también contará con áreas de comida, actividades para niños y zonas de descanso. Melodías al Aire Libre es la ocasión perfecta para disfrutar de buena música y conectar con la naturaleza.",
+    "description_min": "Melodías al Aire Libre te invita a disfrutar de música en vivo en el parque natural de la ciudad, rodeado de naturaleza y un ambiente relajado para toda la familia.",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 17,
+    "img": {
+      "article": "/img/image17.jpg",
+      "card": "/img/IMG17.jpg"
+    },
+    "categoria": "Cultura",
+    "fechas": [
+      {
+        "inicio": "2024-12-05T17:00:00",
+        "fin": "2024-12-05T20:30:00"
+      },
+      {
+        "inicio": "2024-12-12T17:00:00",
+        "fin": "2024-12-12T20:30:00"
+      },
+      {
+        "inicio": "2024-12-19T17:00:00",
+        "fin": "2024-12-19T20:30:00"
+      },
+      {
+        "inicio": "2024-12-26T17:00:00",
+        "fin": "2024-12-26T20:30:00"
+      }
+    ],
+    "titulo": "Cine de verano en la playa",
+    "description": "Cine de Verano en la Playa es una experiencia única que combina la magia del cine con la belleza del mar al atardecer. Disfruta de tus películas favoritas bajo las estrellas, con la brisa marina y el sonido de las olas como telón de fondo. Este evento incluye una selección de clásicos, estrenos recientes y cine familiar, con proyecciones gratuitas y áreas acondicionadas con tumbonas y mantas para tu comodidad. Además, encontrarás puestos de comida y bebidas para completar la velada. Cine de Verano en la Playa es el plan perfecto para compartir momentos inolvidables con amigos y familia en un entorno paradisíaco.",
+    "description_min": "Cine de Verano en la Playa ofrece películas bajo las estrellas con la brisa marina, en un ambiente único y relajado junto al mar. ¡Un plan perfecto para las noches de verano!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 18,
+    "img": {
+      "article": "/img/image18.jpg",
+      "card": "/img/IMG18.jpg"
+    },
+    "categoria": "Folclore",
+    "fechas": [
+      {
+        "inicio": "2024-12-06T17:00:00",
+        "fin": "2024-12-06T20:30:00"
+      },
+      {
+        "inicio": "2024-12-20T17:00:00",
+        "fin": "2024-12-20T20:30:00"
+      }
+    ],
+    "titulo": "Paella kilométrica para todos",
+    "description": "La Gran Paella en la Plaza es un evento único que reúne a la comunidad para disfrutar de una espectacular paella gigante preparada en vivo en la plaza del ayuntamiento. Bajo la guía de chefs expertos, se cocinará una paella monumental que estará lista para compartir entre todos los asistentes. Este encuentro festivo estará acompañado de música en vivo, actividades para niños y un ambiente cargado de tradición y alegría. Trae tu plato y cubiertos, y disfruta de un día lleno de sabor y convivencia en el corazón de la ciudad.",
+    "description_min": "La Gran Paella en la Plaza invita a disfrutar de una paella gigante compartida, música en vivo y un ambiente festivo en la plaza del ayuntamiento. ¡Un evento para toda la comunidad!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 19,
+    "img": {
+      "article": "/img/image19.jpg",
+      "card": "/img/IMG19.jpg"
+    },
+    "categoria": "Deporte",
+    "fechas": [
+      {
+        "inicio": "2024-12-14T08:00:00",
+        "fin": "2024-12-14T12:30:00"
+      },
+      {
+        "inicio": "2024-12-15T08:00:00",
+        "fin": "2024-12-15T12:30:00"
+      }
+    ],
+    "titulo": "Corre junto a tu firulais",
+    "description": "Corre con Tu Mejor Amigo es una carrera única que celebra el vínculo especial entre las personas y sus perros. Esta emocionante cursa, diseñada para participantes de todas las edades y niveles, te invita a correr junto a tu mascota a través de un recorrido lleno de diversión y energía. Con categorías adaptadas para diferentes distancias y ritmos, es una oportunidad perfecta para disfrutar de actividad física al aire libre con tu fiel compañero. Además, el evento contará con zonas de hidratación para corredores y perros, premios para los más rápidos y un área de actividades y regalos para las mascotas. ¡Únete a Corre con Tu Mejor Amigo y vive una experiencia inolvidable llena de deporte, amistad y diversión canina!",
+    "description_min": "Corre con Tu Mejor Amigo es una carrera diseñada para disfrutar con tu perro, con recorridos adaptados, premios y actividades para todos. ¡Corre, juega y celebra junto a tu mascota!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 20,
+    "img": {
+      "article": "/img/image20.jpg",
+      "card": "/img/IMG20.jpg"
+    },
+    "categoria": "Naturaleza",
+    "fechas": [
+      {
+        "inicio": "2024-12-03T14:00:00",
+        "fin": "2024-12-03T15:30:00"
+      },
+      {
+        "inicio": "2024-12-04T14:00:00",
+        "fin": "2024-12-04T15:30:00"
+      },
+      {
+        "inicio": "2024-12-17T14:00:00",
+        "fin": "2024-12-17T15:30:00"
+      },
+      {
+        "inicio": "2024-12-18T14:00:00",
+        "fin": "2024-12-18T15:30:00"
+      }
+    ],
+    "titulo": "Michi busca a su Karen",
+    "description": "Un Hogar para Cada Bigote es un evento organizado por una protectora para concienciar sobre la importancia de la adopción responsable y dar una segunda oportunidad a gatos en busca de un hogar. Durante el día, podrás conocer a los felinos disponibles para adopción, escuchar historias conmovedoras sobre su rescate y recibir asesoramiento de expertos en cuidado y comportamiento felino. También habrá talleres educativos, actividades para los más pequeños, y un mercado solidario con productos para mascotas cuyos beneficios se destinan a apoyar a la protectora. Un Hogar para Cada Bigote es una invitación a cambiar vidas, tanto la de los gatos como la de quienes deciden abrirles su corazón.",
+    "description_min": "Un Hogar para Cada Bigote es un evento para conocer gatos en adopción, aprender sobre cuidado felino y apoyar a una protectora. ¡Ven y cambia vidas con tu amor!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": false
+  },
+  {
+    "id": 21,
+    "img": {
+      "article": "/img/image21.jpg",
+      "card": "/img/IMG21.jpg"
+    },
+    "categoria": "Cultura",
+    "fechas": [
+      {
+        "inicio": "2024-12-14T17:00:00",
+        "fin": "2024-12-14T20:30:00"
+      },
+      {
+        "inicio": "2024-12-21T17:00:00",
+        "fin": "2024-12-21T20:30:00"
+      }
+    ],
+    "titulo": "Los valientes Castellers",
+    "description": "Los valientes Castellers es un evento que celebra la tradición catalana de los castells, impresionantes torres humanas que combinan fuerza, equilibrio y trabajo en equipo. En el corazón de la plaza principal, diferentes colles (grupos de castellers) se reunirán para levantar sus mejores castillos, ofreciendo un espectáculo emocionante lleno de tradición y emoción. Además, el evento contará con música en vivo de grallas, talleres para aprender sobre esta práctica centenaria y actividades infantiles para que toda la familia pueda disfrutar. Los valientes Castellers es una oportunidad única para conectar con la cultura catalana y maravillarte con el poder de la unión y la cooperación.",
+    "description_min": "Los valientes Castellers celebra la tradición catalana con castillos humanos, música en vivo y actividades familiares. ¡Ven a disfrutar de un día lleno de emoción y cultura!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 22,
+    "img": {
+      "article": "/img/image22.jpg",
+      "card": "/img/IMG22.jpg"
+    },
+    "categoria": "Deporte",
+    "fechas": [
+      {
+        "inicio": "2024-12-21T08:00:00",
+        "fin": "2024-12-21T12:30:00"
+      },
+      {
+        "inicio": "2024-12-22T08:00:00",
+        "fin": "2024-12-22T12:30:00"
+      }
+    ],
+    "titulo": "Torneo de futbol",
+    "description": "Únete al Torneo de Fútbol para Todos en el Campo Municipal de Fútbol de la ciudad. Este evento es para todos los niveles, con equipos aleatorios, partidos rápidos y eliminatorias. Por solo 5€, recibirás agua, una camiseta conmemorativa y una experiencia única para conocer gente mientras juegas. Además, habrá una zona social con música, comida y premios para los campeones y jugadores destacados. Inscríbete en nuestra web o directamente el día del torneo. ¡Te esperamos! ⚽",
+    "description_min": "Participa en el Torneo de Fútbol para Todos en tu ciudad. Por 5€, juega partidos rápidos, conoce gente nueva y disfruta de música, comida y premios. ¡Diversión para todos los niveles! ⚽",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 23,
+    "img": {
+      "article": "/img/image23.jpg",
+      "card": "/img/IMG23.jpg"
+    },
+    "categoria": "Folclore",
+    "fechas": [
+      {
+        "inicio": "2024-12-28T08:00:00",
+        "fin": "2024-12-28T17:30:00"
+      },
+      {
+        "inicio": "2024-12-29T08:00:00",
+        "fin": "2024-12-29T17:30:00"
+      }
+    ],
+    "titulo": "Sabores ibéricos",
+    "description": "Sabores Ibéricos es una feria gastronómica que celebra la riqueza culinaria de España, reuniendo los sabores más auténticos de cada región en un solo lugar. Desde los embutidos y quesos de la meseta, pasando por los arroces valencianos, hasta los mariscos gallegos y los guisos andaluces, este evento es un auténtico festín para los amantes de la buena comida. Además de puestos con degustaciones y venta de productos, podrás disfrutar de showcookings con chefs expertos, catas de vinos y aceites, talleres de cocina tradicional y espectáculos culturales como flamenco y música folclórica. Sabores Ibéricos es la cita perfecta para saborear España y descubrir su diversidad gastronómica en un ambiente festivo y lleno de tradición.",
+    "description_min": "Sabores Ibéricos reúne los mejores platos y productos de España con degustaciones, talleres y espectáculos culturales. ¡Una celebración de la gastronomía española en su máxima expresión!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 24,
+    "img": {
+      "article": "/img/image24.jpg",
+      "card": "/img/IMG24.jpg"
+    },
+    "categoria": "Folclore",
+    "fechas": [
+      {
+        "inicio": "2024-12-21T08:00:00",
+        "fin": "2024-12-21T17:30:00"
+      },
+      {
+        "inicio": "2024-12-22T08:00:00",
+        "fin": "2024-12-22T17:30:00"
+      }
+    ],
+    "titulo": "¡Viva México!",
+    "description": "Festival México Vivo es un evento único que celebra la rica cultura, tradiciones y sabores de México en toda su esplendor. Durante el festival, podrás disfrutar de auténtica gastronomía mexicana, desde tacos y tamales hasta mole y aguas frescas, además de un mercado con productos típicos como artesanías, textiles y especias. La música y el folclore serán protagonistas, con mariachis, bailes tradicionales como el jarabe tapatío y espectáculos en vivo que te transportarán a México. También habrá talleres de cocina, clases de baile y actividades para niños. Festival México Vivo es la oportunidad perfecta para sumergirte en la alegría, los colores y la calidez de la cultura mexicana.",
+    "description_min": "Festival México Vivo celebra la cultura mexicana con comida típica, mariachis, bailes tradicionales y actividades para toda la familia. ¡Vive México en cada detalle!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  },
+  {
+    "id": 25,
+    "img": {
+      "article": "/img/image25.jpg",
+      "card": "/img/IMG25.jpg"
+    },
+    "categoria": "Deporte",
+    "fechas": [
+      {
+        "inicio": "2024-12-28T08:00:00",
+        "fin": "2024-12-28T12:30:00"
+      },
+      {
+        "inicio": "2024-12-29T08:00:00",
+        "fin": "2024-12-29T12:30:00"
+      }
+    ],
+    "titulo": "Torneo de baloncesto",
+    "description": "Torneo Encuentros en la Cancha es un evento deportivo diseñado para los amantes del baloncesto que buscan competir, divertirse y conocer gente nueva. Este torneo está abierto a jugadores de todos los niveles y edades, con categorías adaptadas para equipos mixtos, principiantes y jugadores más experimentados. Además de los partidos, habrá actividades como desafíos de triples, concursos de habilidades y zonas para charlar y conectar con otros participantes. Torneo Encuentros en la Cancha no solo es una oportunidad para demostrar tu pasión por el baloncesto, sino también para crear nuevas amistades en un ambiente dinámico y lleno de energía.",
+    "description_min": "Torneo Encuentros en la Cancha combina baloncesto, diversión y la oportunidad de conocer gente nueva. ¡Compite, disfruta y haz nuevos amigos en la cancha!",
+    "mapa": "https://maps.google.com/maps?q=jaume+casanova+70%2C+el+prat+de+llobregat&t=&z=18&ie=UTF8&iwloc=&output=embed",
+    "festivo": true
+  }
+]
