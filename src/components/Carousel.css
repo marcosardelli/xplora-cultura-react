@@ -1,0 +1,18 @@
+
+.footer-overlay {
+    position: absolute; /* Permite que esté encima del carrusel */
+    bottom: 0; /* Pegado a la parte inferior */
+    left: 0;
+    width: 100%; /* Ocupa todo el ancho */
+    height: 120px; /* Altura del rectángulo */
+    background: linear-gradient(to top, #000, transparent);
+    display: flex;
+    align-items: center; /* Centra el contenido verticalmente */
+    justify-content: center; /* Centra el contenido horizontalmente */
+    color: white; /* Texto blanco */
+    z-index: 10; /* Asegura que esté encima del carrusel */
+  }
+
+  #carouselExample {
+    position: relative;
+  }
