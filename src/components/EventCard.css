@@ -1,0 +1,65 @@
+.decoration_bottom {
+    width: 100%;
+    height: 10px;
+}
+
+.categoryColor-Naturaleza {
+    font-weight: bold;
+    color: green;
+}
+
+.categoryColor-Arte {
+    font-weight: bold;
+    color: red;
+}
+
+.categoryColor-Música {
+    font-weight: bold;
+    color: blueviolet;
+}
+
+.categoryColor-Deporte {
+    font-weight: bold;
+    color: blue;
+}
+
+.categoryColor-Cultura {
+    font-weight: bold;
+    color: coral;
+}
+
+.categoryColor-Folclore {
+    font-weight: bold;
+    color: palevioletred;
+}
+
+.Naturaleza {
+    background-color: green;
+}
+
+.Arte {
+    background-color: red;
+}
+
+.Música {
+    background-color: blueviolet;
+}
+.Deporte {
+    background-color: blue;
+}
+.Cultura {
+    background-color: coral;
+}
+.Folclore {
+    background-color: palevioletred;
+}
+
+.ellipsis {
+    white-space: nowrap; /* Evita saltos de línea */
+    overflow: hidden; /* Oculta el texto que excede el contenedor */
+    text-overflow: ellipsis; /* Muestra "..." para texto truncado */
+}
+
+.hand:hover{
+    cursor: pointer;
+}
