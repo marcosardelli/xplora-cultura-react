@@ -40,3 +40,9 @@
 .read-the-docs {
   color: #888;
 }
+
+.ellipsis {
+  white-space: nowrap; /* Evita saltos de línea */
+  overflow: hidden; /* Oculta el texto que excede el contenedor */
+  text-overflow: ellipsis; /* Muestra "..." para texto truncado */
+}
