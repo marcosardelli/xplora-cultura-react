@@ -43,34 +43,10 @@ export default function Carousel() {
             </div >
     
         <div className="footer-overlay">
-            <div className="carousel-caption lh-1 p-0 d-flex flex-column align-items-start justify-content-end">
-
-                <p className="fs-2 mb-2">Texto carousel dinamico con opacidad</p>
-                <a href="#" className="btn btn-danger">Ver más información</a>
-
+            <div className="carousel-caption lh-1 p-0 d-flex flex-column align-items-center justify-content-end">
+                <p className="fs-1 mb-0">BIENVENIDO A XPLORA CULTURA</p>
             </div>
         </div>
-
-    {/* Controles de navegación */}
-            <button
-                className="carousel-control-prev"
-                type="button"
-                data-bs-target="#carouselExampleIndicators"
-                data-bs-slide="prev"
-            >
-                <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span className="visually-hidden">Previous</span>
-            </button>
-            <button
-                className="carousel-control-next"
-                type="button"
-                data-bs-target="#carouselExampleIndicators"
-                data-bs-slide="next"
-            >
-                <span className="carousel-control-next-icon" aria-hidden="true"></span>
-                <span className="visually-hidden">Next</span>
-            </button>
-        
         </div >
     )
 }
