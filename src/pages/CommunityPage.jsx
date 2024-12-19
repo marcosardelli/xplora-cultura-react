@@ -4,7 +4,7 @@ import NewsLetter from "../components/NewsLetter"
 export default function CommunityPage() {
     return(
         <>
-        <div className="bg-light text-center mt-2">
+        <div className="bg-light text-center py-2">
         <div className="newsletter-section fs-5">
             <h2>Descubre lo mejor de tu ciudad con <span className="text-danger">XPLORA</span></h2>
             <h4>¡No queremos que te pierdas ningún evento!</h4>
@@ -29,12 +29,11 @@ export default function CommunityPage() {
             <p>
                 <strong>¿Qué esperas?</strong> Suscríbete ahora y comienza a vivir tu ciudad de una manera diferente.
             </p>
-            <p>
             <strong>¡Es gratis y está hecho para ti!</strong>
-            </p>
+
             </div>
         </div>
-        <NewsLetter/>
+        <NewsLetter className="bg-light"/>
         <Carousel/>
         </>
     )

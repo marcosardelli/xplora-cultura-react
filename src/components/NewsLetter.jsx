@@ -22,10 +22,10 @@ export default function Newsletter() {
     };
 
     return (
-        <section id="formulario" className="container text-center bg-light" aria-labelledby="newsletter-title">
+        <section id="formulario" className="bg-light text-center p-3" aria-labelledby="newsletter-title">
             {/* Mostrar formulario de suscripción */}
             {!isSubscribed ? (
-                <div className="pb-3">
+                <div>
                     {/* <h4 id="newsletter-title">
                         Conoce todos los eventos antes que nadie con nuestra newsletter
                     </h4> */}
@@ -36,7 +36,7 @@ export default function Newsletter() {
                             onChange={(e) => setEmail(e.target.value)}
                             type="email"
                             className="form-control w-50"
-                            placeholder="Correo electrónico"
+                            placeholder="Escriba aquí su correo electrónico"
                             required
                             aria-label="Correo electrónico"
                         />
