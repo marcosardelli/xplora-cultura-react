@@ -1,6 +1,6 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { useUser } from "./context/UserContext"; // Importa el contexto del usuario
+import { useUser } from "../context/userContext";
 import Carousel from "../components/Carousel";
 
 const Login = () => {
@@ -44,7 +44,7 @@ const Login = () => {
 
         if (isUsernameValid && isPasswordValid) {
             login({ name: username }); // Guarda el usuario en el contexto o sessionStorage
-            alert(`Inicio de sesión exitoso🎉 Bienvenido, ${username}`);
+            alert(`🎉 Bienvenido, ${username}!`);
 
             // Redirige a la ruta raíz después de 1.5 segundos
             setTimeout(() => {
