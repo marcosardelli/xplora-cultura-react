@@ -1,5 +1,5 @@
 // import { useNavigate } from "react-router-dom";
-import { useAvailableDays, useSingleTime } from "./logicEvent.js";
+import { useAvailableDays, useSingleTime } from "../logic/logicEvent.js";
 import './EventCard.css'
 
 const EventCard = ({ title, category, dates, img, id }) => {
@@ -17,7 +17,7 @@ const EventCard = ({ title, category, dates, img, id }) => {
   return (
     <div className="col-md-4 mb-2">
         {/* penidente de incluir useNavigate onClick={handleDirect} */}
-      <div className="card border hand p-0"  id={id}>
+      <div className="card border hand"  id={id}>
         <img
           className="card-img-top"
           src={img}
@@ -25,11 +25,11 @@ const EventCard = ({ title, category, dates, img, id }) => {
         />
         <span className={`decoration_bottom ${category}`}></span>
         <div className="card-body px-4">
-          <h5 className="card-title ellipsis">{title}</h5>
-          <p className={`card-subtitle categoryColor-${category}`}>
+        <p className={`card-subtitle categoryColor-${category}`}>
             {category}
           </p>
-          <p className="card-dates m-0">Días: {availableDays}</p>
+          <h5 className="card-title ellipsis">{title}</h5>        
+          <p className="card-dates m-0 ellipsis">Días: {availableDays}</p>
           <p className="card-time m-0">Horario: {singleTime}</p>
 
         </div>

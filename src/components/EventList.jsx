@@ -1,27 +1,16 @@
-import { useState, useEffect } from "react";
+import React from "react";
 import EventCard from "./EventCard";
-import DataService from "../dataService";
 
-const EventList = () => {
-  const [events, setEvents] = useState([]);
-  const dataService = new DataService();
-
-  useEffect(() => {
-    dataService.getAllEvents((data) => {
-      setEvents(data); 
-    });
-  }, [dataService]);
-
+const EventList = ({ events }) => {
   return (
-    <div className="row">
-      {/* Renderiza EventCard por cada evento del json */}
+    <div className="row g-4">
       {events.map((event) => (
         <EventCard
           key={event.id}
-          title={event.titulo} 
-          category={event.categoria} 
-          dates={event.fechas} 
-          img={event.img.card} 
+          title={event.titulo}
+          category={event.categoria}
+          dates={event.fechas}
+          img={event.img.card}
           id={event.id}
         />
       ))}
