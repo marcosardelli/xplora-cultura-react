@@ -1,0 +1,55 @@
+.nav .nav-link {
+  color: grey;
+  cursor: pointer;
+  font-weight: bold;
+}  
+  /* Estilo dinámico por categoría */
+  .categoriesFilter.todos.active {
+    color: black;
+  }
+  .categoriesFilter.todos:hover {
+    color: black;
+  }
+  
+  .categoriesFilter.naturaleza.active {
+    color: green;
+  }
+  .categoriesFilter.naturaleza.hover {
+    color: green;
+  }
+  
+  .categoriesFilter.música.active {
+    color: blueviolet;
+  }
+  
+  .categoriesFilter.música:hover {
+    color: blueviolet;
+  }
+  .categoriesFilter.arte.active {
+    color: red;
+  }
+  .categoriesFilter.arte:hover {
+    color: red;
+  }
+  
+  .categoriesFilter.deporte.active {
+    color: blue;
+  }
+  .categoriesFilter.deporte:hover {
+    color: blue;
+  }
+  
+  .categoriesFilter.cultura.active {
+    color: coral;
+  }
+  
+  .categoriesFilter.cultura:hover {
+    color: coral;
+  }
+  .categoriesFilter.folclore.active {
+    color: palevioletred;
+  }
+  
+  .categoriesFilter.folclore:hover {
+    color: palevioletred;
+  }

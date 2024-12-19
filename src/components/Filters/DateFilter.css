@@ -1,0 +1,9 @@
+.datefilter:hover {
+  font-weight: bold;
+  color: rgb(255, 133, 133) !important; 
+}
+
+.datefilter.active {
+  font-weight: bold;
+  color: rgb(255, 133, 133) !important; 
+}
